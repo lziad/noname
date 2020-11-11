@@ -1,3 +1,7 @@
+鉴于原始仓库 PR 审核不活跃，本分支不再更新，使用单独仓库继续维护： https://github.com/lziad/noname-sgs
+
+----
+
 客户端下载戳这里：
 
 GitHub： https://github.com/libccy/noname/releases/tag/SSS
